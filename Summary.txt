@@ -1,0 +1,3 @@
+# Credit Risk Model Summary
+
+Based on the predicted probabilities from the logistic regression model, a suggested cut-off score of 0.71 is recommended to maintain an expected default rate below 5%. This threshold was selected by analyzing the cumulative distribution of predicted defaults. It ensures that the credit approval process remains conservative while minimizing risk exposure.
